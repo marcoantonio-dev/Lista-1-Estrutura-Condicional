@@ -1,0 +1,54 @@
+1. Elaborar um algoritmo que lê 3 valores a,b,c e os escreve. A seguir, encontre o maior dos 3 valores e o escreva com a mensagem : "É o maior ".
+
+2. Elaborar um algoritmo que lê 2 valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos".
+
+3. Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias: 
+ 
+infantil A =  5 -  7 anos
+
+infantil B =  8 - 10 anos
+
+juvenil  A = 11 - 13 anos
+
+juvenil  B = 14 - 17 anos
+
+adulto = maiores de 18 anos
+
+4. O cardápio de uma lanchonete é o seguinte:
+
+Especificação	Código	Preço
+Cachorro quente	100	1,20
+Bauru simples	101	1,30
+Bauru com ovo	102	1,50
+Hambúrger	103	1,20
+Cheeseburguer	104	1,30
+Refrigerante	105	1,00
+
+Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
+
+5. Tendo como dados de entrada a altura e o sexo de uma pessoa (?M? masculino e ?F? feminino), construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+
+- para homens: (72.7*h)-58
+
+- para mulheres: (62.1*h)-44.7
+
+6. Um vendedor necessita de um algoritmo que calcule o preço total devido por um cliente. O algoritmo deve receber o código de um produto e a quantidade comprada e calcular o preço total, usando a tabela abaixo:
+
+Código do Produto	Preço unitário
+1001			5,32
+1324			6,45
+6548			2,37
+0987			5,32
+7623			6,45
+
+7. Escrever um algoritmo que lê um conjunto de 4 valores i, a, b, c, onde i é um valor inteiro e positivo e a, b, c, são quaisquer valores reais e os escreva. A seguir: 
+
+a) Se i=1 escrever os três valores a, b, c em ordem crescente. 
+b) Se i=2 escrever os três valores a, b, c em ordem decrescente. 
+c) Se i=3 escrever os três valores a, b, c de forma que o maior entre a, b, c fique dentre os dois.
+
+8. Escreva um algoritmo que leia três números inteiros e positivos (A, B, C) e mostre-os em ordem decrescente.
+
+9. Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
+
+10. Faça um algoritmo que leia a idade de uma pessoa expressa em dias e mostre-a expressa em anos, meses e dias.
